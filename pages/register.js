@@ -130,7 +130,7 @@ export default function LoginScreen() {
         </div>
         <div className="mb-6 font-medium">
           <button className="primary-button">REGISTER</button>
-          <OAuth />
+          {/* <OAuth /> */}
         </div>
         <div className="mb-4 font-medium">
           Don&apos;t have an account? &nbsp;
